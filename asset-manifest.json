@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dell/static/css/main.cf1c6f1e.css",
+    "main.js": "/dell/static/js/main.388ed326.js",
+    "static/js/453.c70500fe.chunk.js": "/dell/static/js/453.c70500fe.chunk.js",
+    "index.html": "/dell/index.html",
+    "main.cf1c6f1e.css.map": "/dell/static/css/main.cf1c6f1e.css.map",
+    "main.388ed326.js.map": "/dell/static/js/main.388ed326.js.map",
+    "453.c70500fe.chunk.js.map": "/dell/static/js/453.c70500fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf1c6f1e.css",
+    "static/js/main.388ed326.js"
+  ]
+}
